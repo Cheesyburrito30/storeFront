@@ -1,0 +1,27 @@
+.view {
+    background: url("radek-grzybowski-144617.jpg")no-repeat center center;
+    background-size: cover;
+}
+    
+.navbar {
+    background-color: transparent;
+}
+
+.top-nav-collapse {
+    background-color: #4285F4;
+}
+
+@media only screen and (max-width: 768px) {
+    .navbar {
+        background-color: #4285F4;
+    }
+}
+
+.figure:hover{
+	transform: scale(1.01);
+}
+.figure-img {
+	margin-bottom: 0;
+}
+                
+            
